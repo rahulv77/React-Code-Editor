@@ -14,3 +14,6 @@ npm install
 
 npm run dev
 ```
+![screenshot2](https://github.com/rahulv77/React-Code-Editor/assets/171241236/c3474b7c-0b8f-448e-bb47-0653fa6f5f77)
+
+![screenshot2](https://github.com/rahulv77/React-Code-Editor/assets/171241236/c3474b7c-0b8f-448e-bb47-0653fa6f5f77)
