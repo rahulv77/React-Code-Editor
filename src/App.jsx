@@ -5,7 +5,7 @@ function App() {
   return (
     <Box
       minH="100vh"
-      bgGradient="linear(to-r, #0a031a  , #180202)"
+      bgGradient="linear-gradient(to right, #14092e, #220505)"
       px={6}
       py={8}
     >
